@@ -1,4 +1,4 @@
 # Coursera_Cpp_Brown
 Only Final Project
 ----
-Plese use profile.h from Part_A
+Plese use this profile.h
